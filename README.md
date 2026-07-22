@@ -9,11 +9,11 @@ An ESP32 + SHT40 temperature/humidity monitoring system powered by
 
 The ESP32 collects environmental data (temperature and humidity) and streams it to a local telemetry
 server running MAWMAW. Prometheus and Grafana are used for metrics storage
-and visualization. (previously the [eztnow-gui](https://github.com/kyuQee/eztnow-gui) was used)
+and visualization. (previously [eztnow-gui](https://github.com/kyuQee/eztnow-gui) was used)
 
 The system is designed to be simple:
 - cheap ESP32 sensor nodes
-- local WiFi telemetry
+- local WiFi telemetry (no router needed except main laptop/server)
 - real-time dashboards
 - extensible Python processing layer
 
