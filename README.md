@@ -115,7 +115,7 @@ Use:
 
 7semi SHT40 I2C Nano Breakout
 
-(link)
+link: https://robocraze.com/products/7semi-sht40-i2c-temperature-humidity-sensor-nano-breakout
 
 This version already includes the correct connector spacing for normal
 Dupont jumper wires.
@@ -128,7 +128,7 @@ I originally used:
 
 7semi SHT40 Breakout Board
 
-(link)
+link: https://robocraze.com/products/7semi-sht40-temperature-humidity-sensor-breakout-board
 
 However:
 
@@ -178,7 +178,8 @@ Install:
 
 Installation guide:
 
-(link)
+platformIO: https://platformio.org/install
+
 
 PlatformIO handles:
 
@@ -417,10 +418,6 @@ Open Grafana and visualize:
 * humidity
 * device status
 * telemetry history
-
-Example dashboard:
-
-(image)
 
 ---
 
