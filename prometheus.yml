@@ -1,0 +1,11 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'mawmaw-esp32'
+    static_configs:
+      - targets: ['localhost:8080']   # <-- scrape mawmaw here
+    metrics_path: /metrics
+    scrape_interval: 2s
+    scrape_timeout: 1s
