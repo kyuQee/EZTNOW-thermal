@@ -497,3 +497,10 @@ Grafana
   <img src="assets/Grafana-Screenshot.png" alt="grafana demo">
 </div>
 
+<hr/><br/>
+<div align="center">
+  <img src="assets/eztnow-gui-screenshot.jpeg" alt="OLD gui screenshot">
+</div>
+
+
+
