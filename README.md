@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="eztnow-thermal-logo2.png" alt="EZTNOW Thermal" width="500">
+  <img src="assets/eztnow-thermal-logo2.png" alt="EZTNOW Thermal" width="500">
 </div>
 
 <br>
