@@ -492,3 +492,9 @@ Grafana
 
 **COST: less than 700 INR per node**
 
+## Screenshots
+
+<div align="center">
+  <img src="assets/Grafana-Screenshot.png" alt="grafana demo">
+</div>
+
