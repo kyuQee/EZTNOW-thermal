@@ -1,4 +1,8 @@
-# EZTNOW Thermal
+<div align="center">
+  <img src="eztnow-thermal-logo.png" alt="EZTNOW Thermal" width="500">
+</div>
+
+<br>
 
 An ESP32 + SHT40 temperature/humidity monitoring system powered by
 [MAWMAW](https://github.com/kyuQee/mawmaw).
