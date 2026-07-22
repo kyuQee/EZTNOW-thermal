@@ -406,6 +406,8 @@ implement:
 * device identities
 * encrypted communication
 
+Also to be an AP the ingestor plugin disables `firewalld` (hence the sudo) to setup hotspot to recieve data.
+
 ---
 
 # Grafana
