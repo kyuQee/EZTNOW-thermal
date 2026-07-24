@@ -286,7 +286,7 @@ Clone and build MAWMAW following its documentation.
 
 Important:
 
-Currently, build MAWMAW locally instead of using releases. (Set -DPAYLOAD_MAX=8120 or lower in case of stack overflow on ur system)
+Currently, build MAWMAW locally instead of using releases. (Set -DPAYLOAD_MAX=8120 or lower in case of stack overflow on your system)
 
 Reason:
 
